@@ -6,15 +6,26 @@
     <title>forumElement</title>
 </head>
 <body>
-    <button>Submit</button>
+    <button>Submit outside</button>
     <form action="/register" method="get">
         <label for="username">Username </label>
     <input type="text" placeholder="username" id="username"/>
-    <input type="number" />
-    <input type="color"/>
-    <button>Submit</button>
+    <label for="num">Number</label>
+    <input type="number" name="num" id="num"/>
+    <label for="color">Color</label>
+    <input type="color" name="color" id="color"/>
+    <label for="agree">Agreement</label>
+    <input type="checkbox" name="agree" id="agree">
+    <label for="gender">Gender</label>
+    <input type="radio" name="gender" ir="gender">
+    <label for="country">Country</label>
+    <select name="country" id="country">
+        <option value="Kyrgyzstan">Kyrgyzstan</option>
+        <option value="Uzbekistan">Uzbekistan</option>
+        <option value="Kazakstan">Kazakstan</option>
+    </select>
     <button>Kiryy</button>
-    <input type="text" placrholder="Kiryy" id="Kiryy" />
+    <button>Submit</button>
     </form>
 </body>
 </html>
