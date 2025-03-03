@@ -1,0 +1,22 @@
+h1 {
+    font-size: 60px;
+color: green;
+}
+button {
+    background-color: red;
+}
+.test {
+    color: blue;
+}
+#header-3{
+    color: aqua;
+}
+
+
+input[type="text"] {
+    background-color: red;
+}
+*{
+    color: #e51919;
+    font-size: 30;
+}
