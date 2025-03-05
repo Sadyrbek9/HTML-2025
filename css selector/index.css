@@ -14,7 +14,7 @@ button {
 
 
 input[type="text"] {
-    background-color: red;
+    background-color: rgb(0, 255, 132);
 }
 *{
     color: #e51919;
