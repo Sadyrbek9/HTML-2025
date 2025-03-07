@@ -1,0 +1,35 @@
+h2 {
+    font-weight: normal;
+}
+.kubik {
+    width: 200px;
+    height: 200px;
+    
+}
+#red {
+    background-color: red;
+}
+#black {
+    background-color: black;
+}
+#blue {
+    background-color: blue;
+}
+#brown {
+    background-color: brown;
+}
+#green {
+    background-color: green;
+}
+#yellow {
+    background-color: yellow;
+}
+#purple {
+    background-color: purple;
+}
+#pink {
+    background-color: pink;
+}
+#orange {
+    background-color: orange;
+}
